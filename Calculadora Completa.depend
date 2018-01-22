@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516512171 source:c:\users\guilber vieira\desktop\projetos em c\calculadora completa\main.c
+	<stdio.h>
+	<stdlib.h>
+
