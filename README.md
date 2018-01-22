@@ -1,0 +1,2 @@
+# CalculadoraFuncional
+Calculadora_Funcional_Com_Operações
